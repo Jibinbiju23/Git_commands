@@ -1,4 +1,1 @@
-new file git 
-
-echo "new file" > new.txt (file name)
-
+new file

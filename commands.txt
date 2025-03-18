@@ -26,4 +26,7 @@ git commit -m "my first commit"
 
 git push -u
 
-git clone <grepository url> >> for cloning & repository from github
+git clone <repository url> >> for cloning & repository from github
+
+git branch newbranch >> second commit
+
